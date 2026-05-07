@@ -35,8 +35,12 @@ Multi-turn conversation, bilingual support (PT/EN), colorful terminal interface.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SilvestreFernandes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvestreFernandes&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SilvestreFernandes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvestreFernandes&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=1800"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SilvestreFernandes&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
 </p>
 
 ---
